@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#efedfb"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/border_background"
+        android:layout_margin="1dp"
+        android:id="@+id/linearLayout1">
+        <TextView
+            android:text="Please select the Room Type that you wish to book below."
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvRoomTypeText" />
+        <CheckBox
+            android:text="Apply Weekend Rates"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:textColor="#007cc7"
+            android:id="@+id/cbWknd" />
+        <RadioButton
+            android:text=" Standard Room: $"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:textColor="#007cc7"
+            android:id="@+id/rbStandard" />
+        <RadioButton
+            android:text=" Room w/ View: $"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:textColor="#007cc7"
+            android:id="@+id/rbView" />
+        <RadioButton
+            android:text=" Executive Suite: $"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:textColor="#007cc7"
+            android:id="@+id/rbExecutive" />
+        <TextView
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvRoomTypeSelected" />
+        <Button
+            android:text="Confirm Room Selection"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:textColor="#fff"
+            android:background="#007cc7"
+            android:id="@+id/btnRoomTypeConfirm" />
+    </LinearLayout>
+</LinearLayout>

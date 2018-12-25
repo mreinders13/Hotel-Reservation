@@ -1,0 +1,51 @@
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\bin\Debug\ReindersMichaelAssn3.dll
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\bin\Debug\ReindersMichaelAssn3.pdb
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\bin\Debug\ReindersMichaelAssn3.ReindersMichaelAssn3.apk
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\bin\Debug\ReindersMichaelAssn3.ReindersMichaelAssn3-Signed.apk
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\ReindersMichaelAssn3.csproj.CoreCompileInputs.cache
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\ReindersMichaelAssn3.dll
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\ReindersMichaelAssn3.pdb
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\android\bin\ReindersMichaelAssn3.ReindersMichaelAssn3.apk
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout\reservationnavigation.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout\personalinformation.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout\summary.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout-land\main.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout\checkinoutset.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout\roomtype.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout\specialneeds.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout-land\reservationnavigation.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout-land\personalinformation.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout\main.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\values\strings.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\drawable\border_background.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\R.cs.flag
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\uploadflags.txt
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\bin\Debug\ReindersMichaelAssn3.dll.mdb
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\android\assets\ReindersMichaelAssn3.dll.mdb
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\ReindersMichaelAssn3.csprojResolveAssemblyReference.cache
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout-land\checkinoutset.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout-land\roomtype.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout-land\specialneeds.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\obj\Debug\res\layout-land\summary.xml
+E:\School\Classes\IS389 - Android Programming\Assignments\ReindersMichaelAssn3\ReindersMichaelAssn3\bin\Debug\ReindersMichaelAssn3.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\ReindersMichaelAssn3.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

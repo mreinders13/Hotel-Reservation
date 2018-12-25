@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="#efedfb">
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/border_background"
+        android:layout_margin="1dp"
+        android:id="@+id/linearLayout1">
+        <TextView
+            android:text="FirstName LastName"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/tvSummaryName"
+            android:textColor="#007cc7" />
+        <TextView
+            android:text="Phone: 775-555-1212"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvSummaryPhone" />
+        <TextView
+            android:text="123 Address Drive, City, State 0ZIP0"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvSummaryAddress" />
+        <TextView
+            android:text="Hotel: Example"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvSummaryHotel" />
+        <TextView
+            android:text="Check-In: Date @Time"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvCheckInSummary" />
+        <TextView
+            android:text="Check-Out: Date @Time"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvCheckOutSummary" />
+        <TextView
+            android:text="Room Type: Example Room"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvRoomTypeSummary" />
+        <TextView
+            android:text="Room Price: $##.## per night"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvRoomPriceSummary" />
+        <TextView
+            android:text="Weekend Rate: $##.## per night"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:layout_marginLeft="30dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvWeekendRate" />
+        <TextView
+            android:text=" + $##.00 (exrtra person surcharge)"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:layout_marginLeft="40dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvSurcharge" />
+        <TextView
+            android:text="ADA Accessible: Y/N"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#007cc7"
+            android:id="@+id/tvADASummary" />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/border_background"
+            android:fillViewport="true">
+            <TextView
+                android:text="Example Text"
+                android:id="@+id/tvSpecialNeedsSummary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lines="6"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#007cc7"
+                android:scrollHorizontally="false"
+                android:scrollbars="vertical"
+                android:textSize="15sp" />
+        </ScrollView>
+        <Button
+            android:text="Finished"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#007cc7"
+            android:textColor="#fff"
+            android:layout_margin="20dp"
+            android:id="@+id/btnFinished" />
+    </LinearLayout>
+</LinearLayout>

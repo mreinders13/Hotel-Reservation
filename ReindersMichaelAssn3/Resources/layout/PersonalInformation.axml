@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#efedfb"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="Please enter you personal information in the fields below."
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvPersonalInfo"
+        android:textColor="#007cc7"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:background="@drawable/border_background"
+        android:id="@+id/linearLayoutA">
+        <LinearLayout
+            android:orientation="vertical"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:id="@+id/linearLayout1">
+            <EditText
+                android:inputType="textPersonName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Name"
+                android:layout_marginTop="25dp"
+                android:textColor="#007cc7"
+                android:id="@+id/txtPersonalInfoName" />
+            <EditText
+                android:inputType="phone"
+                android:hint="Phone Number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#007cc7"
+                android:id="@+id/txtPersonalInfoPhone" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#007cc7"
+                android:hint="Street Address"
+                android:id="@+id/txtPersonalInfoAddress" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:id="@+id/linearLayout2">
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textColor="#007cc7"
+                android:layout_weight=".4"
+                android:hint="City"
+                android:id="@+id/txtPersonalInfoCity" />
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textColor="#007cc7"
+                android:layout_weight=".3"
+                android:hint="State"
+                android:id="@+id/txtPersonalInfoState" />
+            <EditText
+                android:inputType="number"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textColor="#007cc7"
+                android:layout_weight=".3"
+                android:hint="Zip Code"
+                android:id="@+id/txtPersonalInfoZip" />
+        </LinearLayout>
+        <Button
+            android:text="Submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#007cc7"
+            android:textColor="#fff"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:id="@+id/btnPersonalInfoSubmit" />
+    </LinearLayout>
+</LinearLayout>
